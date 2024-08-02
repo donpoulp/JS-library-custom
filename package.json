@@ -1,0 +1,24 @@
+{
+  "name": "js-library-custom",
+  "version": "1.0.0",
+  "description": "Bibliothèque de Gestion et de Calcul des Dates Récurrentes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donpoulp/JS-library-custom.git"
+  },
+  "keywords": [
+    "Calculating",
+    "recurring",
+    "dates"
+  ],
+  "author": "Petrozzi Raphael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donpoulp/JS-library-custom/issues"
+  },
+  "homepage": "https://github.com/donpoulp/JS-library-custom#readme"
+}
