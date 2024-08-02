@@ -1,6 +1,6 @@
 {
   "name": "recurrence-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bibliothèque de Gestion et de Calcul des Dates Récurrentes",
   "main": "index.js",
   "scripts": {
